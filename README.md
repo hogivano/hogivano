@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Hendri! 👋
+I'm a fairly curious person.
+
+- 🌱 I’m currently deap learn frontend developer (vue.js/react.js)
+- 😄 Pronouns: he/him
 
 ## Get in touch
 - LinkedIn: https://www.linkedin.com/in/hogivano
@@ -8,17 +12,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=hogivano&show_icons=true" alt="hogivano" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hogivano&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**hogivano/hogivano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+clinking_glasses Cheers!
