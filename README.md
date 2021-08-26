@@ -13,4 +13,4 @@ I'm a fairly curious person.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hogivano&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-clinking_glasses Cheers!
+🥂 Cheers!
