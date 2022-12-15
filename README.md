@@ -1,7 +1,7 @@
 ### Hi there, I'm Hendri! 👋
 I'm a fairly curious person.
 
-- 🌱 I’m currently deap learn frontend developer (vue.js/react.js)
+- 🌱 I’m currently deep learning in Javascript Developement
 - 😄 Pronouns: he/him
 
 ## Get in touch
