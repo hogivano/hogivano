@@ -1,7 +1,7 @@
 ### Hi there, I'm Hendri! 👋
 I'm a fairly curious person.
 
-- 🌱 I’m currently deep learning in Javascript Developement
+- 🌱 I’m currently deep learning in Javascript Development
 - 😄 Pronouns: he/him
 
 ## Get in touch
